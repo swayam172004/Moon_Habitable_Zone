@@ -1,10 +1,3 @@
-Perfect 👍
-Here’s your **complete and personalized `README.md`**, fully formatted and production-ready for GitHub — including project overview, installation, workflow, results, and citation — all customized for your **Moon Stability Zone (MSZ)** research.
-
-You can copy this as-is into your repo root (`README.md`).
-
----
-
 ```markdown
 # 🌕 MoonHabitableZone: Python Toolkit for Exomoon Detection and Stability Zone Analysis  
 
@@ -52,33 +45,9 @@ then the moon can exist in a **stable orbit**.
 
 ---
 
-## 📂 Repository Structure  
-
 ```
 
-MoonHabitableZone/
-│
-├── data/
-│   └── exoplanet_data.csv              # NASA Exoplanet dataset (processed)
-│
-├── notebooks/
-│   └── MoonHabitableZone.ipynb         # Jupyter notebook for analysis & visualization
-│
-├── scripts/
-│   ├── moon_stability_zone.py          # Main formula implementation and analysis
-│   ├── data_preprocessing.py           # Data cleaning and filtering steps
-│   └── ml_decision_tree_model.py       # Machine learning implementation
-│
-├── results/
-│   └── visualizations/                 # Graphs and charts
-│
-├── CITATION.cff                        # Citation metadata (Zenodo DOI)
-├── LICENSE                             # MIT License
-├── requirements.txt                    # Dependencies
-└── README.md                           # You are here
-
 ````
-
 ---
 
 ## ⚙️ Installation  
@@ -89,17 +58,6 @@ Clone the repository and install required packages:
 git clone https://github.com/swayamsikarwar/MoonHabitableZone.git
 cd MoonHabitableZone
 pip install -r requirements.txt
-````
-
-Example `requirements.txt`:
-
-```
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-```
 
 ---
 
@@ -189,25 +147,6 @@ Outputs include:
 
 ---
 
-## 🧾 Citation
-
-If you use this project or reference it in academic work, please cite it as follows:
-
-```bibtex
-@software{Sikarwar2025_MoonHabitableZone,
-  author       = {Swayam Singh Sikarwar and Ankit Sharma and Jagriti Singh Thakur},
-  title        = {MoonHabitableZone: Python Toolkit for Exomoon Detection and Stability Zone Analysis},
-  year         = 2025,
-  publisher    = {Zenodo},
-  version      = {v1.0.0},
-  doi          = {10.5281/zenodo.17366586},
-  url          = {https://doi.org/10.5281/zenodo.17366586}
-}
-```
-
-Or cite via GitHub’s “Cite this repository” button.
-
----
 
 ## 📚 References
 
@@ -230,7 +169,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 | Name                      | Institution   | Role                           |
 | ------------------------- | ------------- | ------------------------------ |
 | **Swayam Singh Sikarwar** | SDBCE, Indore | Lead Researcher & Developer    |
-| **Ankit Sharma**          | MIT, Ujjain   | Data Analyst & Model Developer |
 | **Jagriti Singh Thakur**  | SDBCE, Indore | Research Co-Author             |
 
 ---
@@ -253,9 +191,4 @@ Special thanks to:
 
 > *"Exploring the unseen moons of distant worlds — one dataset at a time."* 🌙
 
-```
-
----
-
-Would you like me to also generate a **short project description (for GitHub’s repo “About” section)** and a **Zenodo metadata summary** that matches this README? Those will help your Zenodo and GitHub pages look perfectly aligned.
 ```
