@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: "Sikarwar"
+    given-names: "Swayam Singh"
+  - family-names: "Singh Thakur"
+    given-names: "Jagriti"
+
+title: "MoonHabitableZone: Python Toolkit for Exomoon Detection and Stability Zone Analysis"
+version: "v1.0.0"
+doi: "https://zenodo.org/records/17366586"
+repository-code: "https://github.com/yourusername/MoonHabitableZone"
+license: MIT
+keywords:
+  - Exomoons
+  - Moon Stability Zone
+  - Exoplanets
+  - Python
+  - Data Analysis
+  - Machine Learning
+  - Astrophysics
+related-identifiers:
+  - type: doi
+    value: "https://zenodo.org/records/17366586"  # Place the DOI of your research paper here
+    relation: isSupplementTo
+
+abstract: >
+  This repository contains the Python implementation of the research titled 
+  "Discovery of Potential Moons Around Exoplanets: Data Analysis Using Python 
+  and Development of a Moon Stability Zone Formula." The project analyzes data 
+  from the NASA Exoplanet Archive to identify potential moons around exoplanets 
+  using numerical analysis and machine learning. It introduces a novel formula 
+  — the Moon Stability Zone (MSZ) — which defines regions where moons can maintain 
+  stable orbits based on Hill radius and Roche limit calculations. The toolkit 
+  provides scripts for data cleaning, visualization, and stability zone computation, 
+  supporting reproducible astrophysical research.
