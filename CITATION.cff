@@ -9,7 +9,7 @@ authors:
 title: "MoonHabitableZone: Python Toolkit for Exomoon Detection and Stability Zone Analysis"
 version: "v1.0.0"
 doi: "https://zenodo.org/records/17366586"
-repository-code: "https://github.com/yourusername/MoonHabitableZone"
+repository-code: "https://github.com/swayam1234/MoonHabitableZone"
 license: MIT
 keywords:
   - Exomoons
@@ -21,7 +21,7 @@ keywords:
   - Astrophysics
 related-identifiers:
   - type: doi
-    value: "https://zenodo.org/records/17366586"  # Place the DOI of your research paper here
+    value: "https://zenodo.org/records/17366586"  
     relation: isSupplementTo
 
 abstract: >
