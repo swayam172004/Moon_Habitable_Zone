@@ -13,14 +13,6 @@
 - [About](#about)
 - [Features](#features)
 - [Install](#install)
-- [Quick usage (Python)](#quick-usage-python)
-- [MSZ formula (explanation)](#msz-formula-explanation)
-- [Example output](#example-output)
-- [Running the demo / site](#running-the-demo--site)
-- [Citation](#citation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
